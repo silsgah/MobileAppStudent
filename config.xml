@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.helloCordova" version="2.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>RecycleApp</name>
+    <description>
+       A recycle Campaign
+    </description>
+    <author email="info@simodigital.net" href="http://www.simodigital.net">
+        Silas Gah
+    </author>
+   
+    <access origin="http://127.0.0.1*" />
+    
+	<icon src="styles/ldpi.png" gap:platform="android" gap:density="ldpi" />
+<icon src="styles/mdpi.png" gap:platform="android" gap:density="mdpi" />
+<icon src="styles/hdpi.png" gap:platform="android" gap:density="hdpi" />
+<icon src="styles/xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+	 
+</widget>
